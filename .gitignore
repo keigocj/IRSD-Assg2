@@ -1,3 +1,6 @@
 #so we created the .gitignore file so if we push or modify something with github the files that are inside this
 #gitignore won't be comitted or push and the information of the file in this .gitifnore will be kept private
 .env
+.venv/
+__puache__/
+.idea
